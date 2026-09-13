@@ -1,1 +1,5 @@
-"# Demo Git PRG3" 
+# Demo Git PRG3
+
+## Integrantes
+- Cesia Funes
+- Gonzalo Lopez
